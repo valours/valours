@@ -1,8 +1,6 @@
 # 🗃️ My repositories
 
-[topic:sandbox](https://github.com/valours?tab=repositories&q=topic%3Asandbox&type=&language=&sort=)
-
-[topic:react](https://github.com/valours?tab=repositories&q=topic%3Areact&type=&language=&sort=)
+[topic:sandbox](https://github.com/valours?tab=repositories&q=topic%3Asandbox&type=&language=&sort=) • [topic:react](https://github.com/valours?tab=repositories&q=topic%3Areact&type=&language=&sort=)
 
 # 🌟 Stars/Lists
 
@@ -15,10 +13,4 @@
 [attic](https://github.com/stars/valours/lists/attic) • Libs already used on projects but requiring a refresher course
 
 ### With compagnies
-[With crème de la crème](https://github.com/stars/valours/lists/with-cr%C3%A8me-de-la-cr%C3%A8me)
-
-[With Fizix](https://github.com/stars/valours/lists/with-fizix)
-
-[With Creative](https://github.com/stars/valours/lists/with-creative)
-
-[With OnRewind](https://github.com/stars/valours/lists/with-onrewind)
+[With crème de la crème](https://github.com/stars/valours/lists/with-cr%C3%A8me-de-la-cr%C3%A8me) • [With Fizix](https://github.com/stars/valours/lists/with-fizix) • [With Creative](https://github.com/stars/valours/lists/with-creative) • [With OnRewind](https://github.com/stars/valours/lists/with-onrewind)
