@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+[🚀 Weapons](https://github.com/stars/valours/lists/weapons)
+[🔪 Autopsy](https://github.com/stars/valours/lists/autopsy)
