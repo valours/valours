@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[🚀 Weapons](https://github.com/stars/valours/lists/weapons)
-[🔪 Autopsy](https://github.com/stars/valours/lists/autopsy)
+ - [🚀 Weapons](https://github.com/stars/valours/lists/weapons)
+ - [🔪 Autopsy](https://github.com/stars/valours/lists/autopsy)
