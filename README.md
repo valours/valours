@@ -13,4 +13,11 @@
 [attic](https://github.com/stars/valours/lists/attic) • Libs already used on projects but requiring a refresher course
 
 ### With compagnies
-[With crème de la crème](https://github.com/stars/valours/lists/with-cr%C3%A8me-de-la-cr%C3%A8me) • [With Fizix](https://github.com/stars/valours/lists/with-fizix) • [With Creative](https://github.com/stars/valours/lists/with-creative) • [With OnRewind](https://github.com/stars/valours/lists/with-onrewind)
+
+[With crème de la crème](https://github.com/stars/valours/lists/with-cr%C3%A8me-de-la-cr%C3%A8me)
+
+[With Fizix](https://github.com/stars/valours/lists/with-fizix)
+
+[With Creative](https://github.com/stars/valours/lists/with-creative)
+
+[With OnRewind](https://github.com/stars/valours/lists/with-onrewind)
