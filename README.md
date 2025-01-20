@@ -1,6 +1,10 @@
 # 🗃️ By topics
 
-[topic:sandbox](https://github.com/valours?tab=repositories&q=topic%3Asandbox&type=&language=&sort=) • [topic:react](https://github.com/valours?tab=repositories&q=topic%3Areact&type=&language=&sort=)
+[sandbox](https://github.com/valours?tab=repositories&q=topic%3Asandbox&type=&language=&sort=)
+
+[react](https://github.com/valours?tab=repositories&q=topic%3Areact&type=&language=&sort=)
+
+[obsidian](https://github.com/valours?tab=repositories&q=topic%3Aobsidian&type=&language=&sort=)
 
 # 🌟 Stars/Lists
 
