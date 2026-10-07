@@ -6,6 +6,8 @@
 
 [obsidian](https://github.com/valours?tab=repositories&q=topic%3Aobsidian&type=&language=&sort=)
 
+# 📚 [Books](https://github.com/valours?tab=repositories&q=topic%3Abookreview&type=&language=&sort=)
+
 # 🌟 Stars/Lists
 
 ### By lists
